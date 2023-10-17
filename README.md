@@ -7,5 +7,8 @@ IPM procedures take at least 30 minutes to complete, less than 30 minutes is con
 ![Count of Labor Trans less 30 min](https://github.com/dariusmehri/Integrative-Pest-Management-Labor-Tracking-at-NYCHA/assets/11237613/b422c515-cc15-47ae-96c8-8a5ac5980c44)
 
 
+#### Exterminators Stealing Time
+IPM extermination of over 120 minutes indicates stealing time. This visualization shows the count of jobs that are greater than 120 minutes by exterminator:
 
+![Stealing time](https://github.com/dariusmehri/Integrative-Pest-Management-Labor-Tracking-at-NYCHA/assets/11237613/ff9e2328-2aa5-474e-8180-ff040a545726)
 
