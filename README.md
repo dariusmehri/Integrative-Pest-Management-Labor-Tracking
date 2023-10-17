@@ -10,7 +10,7 @@ IPM procedures take at least 30 minutes to complete, less than 30 minutes is con
 
 
 #### Exterminators Stealing Time
-IPM exterminations of over 120 minutes indicates stealing time. This visualization shows the count of jobs that are greater than 120 minutes by exterminator. The rotated bar chart on the left shows the total count of exterminations greater than 120 minutes, the table on the right compares the count of jobs less than and greater than 120 minutes:
+IPM exterminations of over 120 minutes indicates stealing time. This visualization shows the count of jobs by exterminator that are greater than 120 minutes. The rotated bar chart on the left shows the total count of exterminations greater than 120 minutes, the table on the right compares the count of jobs less than and greater than 120 minutes:
 
 
 ![Stealing time](https://github.com/dariusmehri/Integrative-Pest-Management-Labor-Tracking-at-NYCHA/assets/11237613/ff9e2328-2aa5-474e-8180-ff040a545726)
