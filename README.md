@@ -1,1 +1,2 @@
-# Integrative-Pest-Management-Labor-Tracking
+### Integrative Pest Management Labor Tracking
+Integrated Pest Management (IPM) is a sustainable approach to managing pests that focuses on long-term prevention and minimizing the impact of pests on the environment, human health, and property. The purpose of IPM pest treatments is to achieve effective pest control while minimizing the use of chemical pesticides and their potential negative effects. 
