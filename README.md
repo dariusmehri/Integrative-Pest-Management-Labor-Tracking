@@ -27,3 +27,8 @@ A heat map shows the developments and buildings where pests are prevalent, and w
 
 ![heat map](https://github.com/dariusmehri/Integrative-Pest-Management-Labor-Tracking-at-NYCHA/assets/11237613/68a4e345-47e1-4a11-91d1-1fc7c332a8a1)
 
+#### Spatial Analysis
+A map of the NYCHA building shows where different types of pests are located. This map shows where mice are located in apartments:
+
+![map](https://github.com/dariusmehri/Integrative-Pest-Management-Labor-Tracking-at-NYCHA/assets/11237613/67e096e3-efc4-40e3-8aae-5fa1598ced25)
+
