@@ -15,3 +15,10 @@ IPM exterminations of over 120 minutes indicates stealing time. This visualizati
 
 ![Stealing time](https://github.com/dariusmehri/Integrative-Pest-Management-Labor-Tracking-at-NYCHA/assets/11237613/ff9e2328-2aa5-474e-8180-ff040a545726)
 
+
+#### Time Series
+Time series analysis shows the count of exterminations and locations visited by the exterminator. A maximum of 6 exterminations and 10 locations is considered normal, above those counts is considered unlikely:
+
+![time series](https://github.com/dariusmehri/Integrative-Pest-Management-Labor-Tracking-at-NYCHA/assets/11237613/06f074cc-dd81-4d57-bb28-9727b1e5ef92)
+
+
