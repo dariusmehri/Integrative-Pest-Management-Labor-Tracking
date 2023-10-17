@@ -22,3 +22,8 @@ Time series analysis shows the count of exterminations and locations visited by 
 ![time series](https://github.com/dariusmehri/Integrative-Pest-Management-Labor-Tracking-at-NYCHA/assets/11237613/06f074cc-dd81-4d57-bb28-9727b1e5ef92)
 
 
+#### Pest Hot Spots
+A heat map shows the developments and buildings where pests are prevalent, and where IPM is most needed: 
+
+![heat map](https://github.com/dariusmehri/Integrative-Pest-Management-Labor-Tracking-at-NYCHA/assets/11237613/68a4e345-47e1-4a11-91d1-1fc7c332a8a1)
+
