@@ -10,11 +10,13 @@ IPM exterminations that take less than 30 minutes is considered insufficient tim
 
 
 #### Exterminators Stealing Time
+##### Time to Complete Job
 IPM exterminations of over 120 minutes indicates the possiblity of stealing time. This visualization shows the count of jobs by exterminators that are greater than 120 minutes. The rotated bar chart on the left shows the total count of exterminations greater than 120 minutes, the table on the right compares the count of jobs less than and greater than 120 minutes:
 
 
 ![Stealing time](https://github.com/dariusmehri/Integrative-Pest-Management-Labor-Tracking-at-NYCHA/assets/11237613/ff9e2328-2aa5-474e-8180-ff040a545726)
 
+##### Mode of Start and End Time
 
 #### Time Series
 Time series analysis shows the count of exterminations and locations visited by the exterminator. A maximum of 6 exterminations and 10 locations is considered normal, above those counts is considered unlikely:
