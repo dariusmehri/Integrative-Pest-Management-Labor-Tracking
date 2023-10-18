@@ -17,7 +17,7 @@ IPM exterminations of over 120 minutes indicates the possiblity of stealing time
 ![Stealing time](https://github.com/dariusmehri/Integrative-Pest-Management-Labor-Tracking-at-NYCHA/assets/11237613/ff9e2328-2aa5-474e-8180-ff040a545726)
 
 ##### Mode of Start and End Time
-On average, exterminators start their work at 8 am and finish by 3 pm. This visualization shows the modes (the most frequent) start amd end times. This exterminator starts work at 8 am but finishes at 2 pm, indicating the possibility of stealing time:
+On average, exterminators start their work at 8 am and finish by 3 pm. This visualization shows the modes (the most frequent) start amd end times. This exterminator mostly starts work at 8 am but finishes at 2 pm, indicating the possibility of stealing time:
 
 ![mode](https://github.com/dariusmehri/Integrative-Pest-Management-Labor-Tracking-at-NYCHA/assets/11237613/9b970743-078e-47ff-af44-2f17b90fbf2d)
 
